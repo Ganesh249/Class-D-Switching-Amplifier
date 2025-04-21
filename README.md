@@ -31,3 +31,6 @@ This project is a **compact, efficient, and high-fidelity amplifier** designed f
 19. 47uh inductor - 1
 20. 3.5mm headphone jack - 1
 
+#  Circuit Diagram
+[Schematic_page-0001](https://github.com/user-attachments/assets/db3a2a3c-878a-4bbb-9300-070dacce63f6)
+
