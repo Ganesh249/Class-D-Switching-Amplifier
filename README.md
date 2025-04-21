@@ -31,6 +31,9 @@ This project is a **compact, efficient, and high-fidelity amplifier** designed f
 19. 47uh inductor - 1
 20. 3.5mm headphone jack - 1
 
-#  Circuit Diagram
-[Schematic_page-0001](https://github.com/user-attachments/assets/db3a2a3c-878a-4bbb-9300-070dacce63f6)
+# Circuit Diagram
+[Schematic.pdf](https://github.com/user-attachments/files/19834556/Schematic.pdf)
+
+**Note**: Add a pull-down resistor(10k) to the LM386 output to reduce Noise when no audio is played.
+          Also, ensure you're using a 1uf or higher ceramic capacitor for Bootstrapping for proper gate voltage to the high-side MOSFET.
 
