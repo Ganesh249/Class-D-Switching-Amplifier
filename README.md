@@ -33,8 +33,10 @@ This project is a **compact, efficient, and high-fidelity amplifier** designed f
 
 # Circuit Diagram
 ![Image](https://github.com/user-attachments/assets/18bc7a5d-e9fa-4328-b5bd-7c57c7074d48)
-[Schematic.pdf](https://github.com/user-attachments/files/19834556/Schematic.pdf)
 
 **Note**: Add a pull-down resistor(10k) to the LM386 output to reduce Noise when no audio is played.
           Also, ensure you're using a 1uf or higher ceramic capacitor for Bootstrapping for proper gate voltage to the high-side MOSFET.
+
+# PCB Design(3D View)
+![image](https://github.com/user-attachments/assets/f6c0a06b-6384-4d09-8160-37f39dc889bb)
 
